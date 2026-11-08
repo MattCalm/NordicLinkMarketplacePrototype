@@ -1,0 +1,10 @@
+{
+  "description": "A Chinese-language marketplace for students and expats in Copenhagen to buy and sell second-hand goods, message sellers, and arrange pickups.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
